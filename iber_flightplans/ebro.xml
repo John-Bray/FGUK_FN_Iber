@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+
+<PropertyList>
+  <version type="int">2</version>
+  <flight-rules type="string">V</flight-rules>
+  <flight-type type="string">X</flight-type>
+  <estimated-duration-minutes type="int">0</estimated-duration-minutes>
+  <departure>
+    <airport type="string">LERS</airport>
+    <runway type="string">25</runway>
+  </departure>
+  <destination>
+    <airport type="string">LEXJ</airport>
+    <runway type="string">29</runway>
+  </destination>
+  <route>
+    <wp>
+      <type type="string">runway</type>
+      <departure type="bool">true</departure>
+      <ident type="string">25</ident>
+      <icao type="string">LERS</icao>
+    </wp>
+    <wp n="1">
+      <type type="string">basic</type>
+      <alt-restrict type="string">at</alt-restrict>
+      <altitude-ft type="double">4000</altitude-ft>
+      <ident type="string">WP1</ident>
+      <lon type="double">0.864186</lon>
+      <lat type="double">40.719707</lat>
+    </wp>
+    <wp n="2">
+      <type type="string">basic</type>
+      <alt-restrict type="string">at</alt-restrict>
+      <altitude-ft type="double">4000</altitude-ft>
+      <ident type="string">WP2</ident>
+      <lon type="double">0.669453</lon>
+      <lat type="double">41.06245</lat>
+    </wp>
+    <wp n="3">
+      <type type="string">basic</type>
+      <alt-restrict type="string">at</alt-restrict>
+      <altitude-ft type="double">4000</altitude-ft>
+      <ident type="string">WP3</ident>
+      <lon type="double">0.210256</lon>
+      <lat type="double">41.403828</lat>
+    </wp>
+    <wp n="4">
+      <type type="string">basic</type>
+      <alt-restrict type="string">at</alt-restrict>
+      <altitude-ft type="double">4000</altitude-ft>
+      <ident type="string">WP4</ident>
+      <lon type="double">-0.015836</lon>
+      <lat type="double">41.249668</lat>
+    </wp>
+    <!-- 41.296944,-0.313611 = RUEDA -->
+    <wp n="5">
+      <type type="string">navaid</type>
+      <alt-restrict type="string">at</alt-restrict>
+      <altitude-ft type="double">4000</altitude-ft>
+      <ident type="string">LEZG</ident>
+      <lon type="double">-1.043559</lon>
+      <lat type="double">41.66702975</lat>
+    </wp>
+    <wp n="6">
+      <type type="string">navaid</type>
+      <alt-restrict type="string">at</alt-restrict>
+      <altitude-ft type="double">4000</altitude-ft>
+      <ident type="string">LERJ</ident>
+      <lon type="double">-2.317434683</lon>
+      <lat type="double">42.45838355</lat>
+    </wp>
+    <wp n="7">
+      <type type="string">basic</type>
+      <alt-restrict type="string">at</alt-restrict>
+      <altitude-ft type="double">4000</altitude-ft>
+      <ident type="string">EBRO</ident>
+      <lon type="double">-4.189403</lon>
+      <lat type="double">43.017189</lat>
+    </wp>
+    <wp n="8">
+      <type type="string">basic</type>
+      <alt-restrict type="string">at</alt-restrict>
+      <altitude-ft type="double">4000</altitude-ft>
+      <ident type="string">BESAYA</ident>
+      <lon type="double">-4.117178</lon>
+      <lat type="double">43.01757</lat>
+    </wp>
+    <wp n="9">
+      <type type="string">basic</type>
+      <alt-restrict type="string">at</alt-restrict>
+      <altitude-ft type="double">4000</altitude-ft>
+      <ident type="string">COAST</ident>
+      <lon type="double">-4.034878</lon>
+      <lat type="double">43.434158</lat>
+    </wp>
+    <wp n="10">
+      <type type="string">runway</type>
+      <approach type="bool">true</approach>
+      <ident type="string">29</ident>
+      <icao type="string">LEXJ</icao>
+    </wp>
+  </route>
+</PropertyList>

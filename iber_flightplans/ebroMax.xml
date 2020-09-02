@@ -1,0 +1,1326 @@
+<?xml version="1.0"?>
+
+<PropertyList>
+  <version type="int">2</version>
+  <flight-rules type="string">V</flight-rules>
+  <flight-type type="string">X</flight-type>
+  <estimated-duration-minutes type="int">0</estimated-duration-minutes>
+  <departure>
+    <airport type="string">LERS</airport>
+    <runway type="string">25</runway>
+  </departure>
+  <destination>
+    <airport type="string">LEXJ</airport>
+    <runway type="string">29</runway>
+  </destination>
+  <route>
+    <wp>
+      <type type="string">runway</type>
+      <departure type="bool">true</departure>
+      <ident type="string">25</ident>
+      <icao type="string">LERS</icao>
+    </wp>
+    <wp n="1">
+      <type type="string">basic</type>
+      <alt-restrict type="string">at</alt-restrict>
+      <altitude-ft type="double">3497.375328</altitude-ft>
+      <ident type="string">WP1</ident>
+      <lon type="double">0.76325</lon>
+      <lat type="double">40.843853</lat>
+    </wp>
+    <wp n="2">
+      <type type="string">basic</type>
+      <alt-restrict type="string">at</alt-restrict>
+      <altitude-ft type="double">3497.375328</altitude-ft>
+      <ident type="string">WP2</ident>
+      <lon type="double">0.863461</lon>
+      <lat type="double">40.719063</lat>
+    </wp>
+    <wp n="3">
+      <type type="string">basic</type>
+      <alt-restrict type="string">at</alt-restrict>
+      <altitude-ft type="double">3497.375328</altitude-ft>
+      <ident type="string">WP3</ident>
+      <lon type="double">0.591383</lon>
+      <lat type="double">40.709557</lat>
+    </wp>
+    <wp n="4">
+      <type type="string">basic</type>
+      <alt-restrict type="string">at</alt-restrict>
+      <altitude-ft type="double">3497.375328</altitude-ft>
+      <ident type="string">WP4</ident>
+      <lon type="double">0.501067</lon>
+      <lat type="double">40.78804</lat>
+    </wp>
+    <wp n="5">
+      <type type="string">basic</type>
+      <alt-restrict type="string">at</alt-restrict>
+      <altitude-ft type="double">3497.375328</altitude-ft>
+      <ident type="string">WP5</ident>
+      <lon type="double">0.484944</lon>
+      <lat type="double">40.953053</lat>
+    </wp>
+    <wp n="6">
+      <type type="string">basic</type>
+      <alt-restrict type="string">at</alt-restrict>
+      <altitude-ft type="double">3497.375328</altitude-ft>
+      <ident type="string">WP6</ident>
+      <lon type="double">0.661014</lon>
+      <lat type="double">41.05983</lat>
+    </wp>
+    <wp n="7">
+      <type type="string">basic</type>
+      <alt-restrict type="string">at</alt-restrict>
+      <altitude-ft type="double">3497.375328</altitude-ft>
+      <ident type="string">WP7</ident>
+      <lon type="double">0.548683</lon>
+      <lat type="double">41.226871</lat>
+    </wp>
+    <wp n="8">
+      <type type="string">basic</type>
+      <alt-restrict type="string">at</alt-restrict>
+      <altitude-ft type="double">3497.375328</altitude-ft>
+      <ident type="string">WP8</ident>
+      <lon type="double">0.567192</lon>
+      <lat type="double">41.24128</lat>
+    </wp>
+    <wp n="9">
+      <type type="string">basic</type>
+      <alt-restrict type="string">at</alt-restrict>
+      <altitude-ft type="double">3497.375328</altitude-ft>
+      <ident type="string">WP9</ident>
+      <lon type="double">0.544519</lon>
+      <lat type="double">41.231991</lat>
+    </wp>
+    <wp n="10">
+      <type type="string">basic</type>
+      <alt-restrict type="string">at</alt-restrict>
+      <altitude-ft type="double">3497.375328</altitude-ft>
+      <ident type="string">WP10</ident>
+      <lon type="double">0.362064</lon>
+      <lat type="double">41.238968</lat>
+    </wp>
+    <wp n="11">
+      <type type="string">basic</type>
+      <alt-restrict type="string">at</alt-restrict>
+      <altitude-ft type="double">3497.375328</altitude-ft>
+      <ident type="string">WP11</ident>
+      <lon type="double">0.344228</lon>
+      <lat type="double">41.357883</lat>
+    </wp>
+    <wp n="12">
+      <type type="string">basic</type>
+      <alt-restrict type="string">at</alt-restrict>
+      <altitude-ft type="double">3497.375328</altitude-ft>
+      <ident type="string">WP12</ident>
+      <lon type="double">0.293883</lon>
+      <lat type="double">41.359444</lat>
+    </wp>
+    <wp n="13">
+      <type type="string">basic</type>
+      <alt-restrict type="string">at</alt-restrict>
+      <altitude-ft type="double">3497.375328</altitude-ft>
+      <ident type="string">WP13</ident>
+      <lon type="double">0.210256</lon>
+      <lat type="double">41.403828</lat>
+    </wp>
+    <wp n="14">
+      <type type="string">basic</type>
+      <alt-restrict type="string">at</alt-restrict>
+      <altitude-ft type="double">3497.375328</altitude-ft>
+      <ident type="string">WP14</ident>
+      <lon type="double">0.126528</lon>
+      <lat type="double">41.385712</lat>
+    </wp>
+    <wp n="15">
+      <type type="string">basic</type>
+      <alt-restrict type="string">at</alt-restrict>
+      <altitude-ft type="double">3497.375328</altitude-ft>
+      <ident type="string">WP15</ident>
+      <lon type="double">0.110639</lon>
+      <lat type="double">41.312572</lat>
+    </wp>
+    <wp n="16">
+      <type type="string">basic</type>
+      <alt-restrict type="string">at</alt-restrict>
+      <altitude-ft type="double">3497.375328</altitude-ft>
+      <ident type="string">WP16</ident>
+      <lon type="double">0.091133</lon>
+      <lat type="double">41.339611</lat>
+    </wp>
+    <wp n="17">
+      <type type="string">basic</type>
+      <alt-restrict type="string">at</alt-restrict>
+      <altitude-ft type="double">3497.375328</altitude-ft>
+      <ident type="string">WP17</ident>
+      <lon type="double">0.035456</lon>
+      <lat type="double">41.278439</lat>
+    </wp>
+    <wp n="18">
+      <type type="string">basic</type>
+      <alt-restrict type="string">at</alt-restrict>
+      <altitude-ft type="double">3497.375328</altitude-ft>
+      <ident type="string">WP18</ident>
+      <lon type="double">-0.003019</lon>
+      <lat type="double">41.31892</lat>
+    </wp>
+    <wp n="19">
+      <type type="string">basic</type>
+      <alt-restrict type="string">at</alt-restrict>
+      <altitude-ft type="double">3497.375328</altitude-ft>
+      <ident type="string">WP19</ident>
+      <lon type="double">-0.015836</lon>
+      <lat type="double">41.249668</lat>
+    </wp>
+    <wp n="20">
+      <type type="string">basic</type>
+      <alt-restrict type="string">at</alt-restrict>
+      <altitude-ft type="double">3497.375328</altitude-ft>
+      <ident type="string">WP20</ident>
+      <lon type="double">-0.252061</lon>
+      <lat type="double">41.298615</lat>
+    </wp>
+    <wp n="21">
+      <type type="string">basic</type>
+      <alt-restrict type="string">at</alt-restrict>
+      <altitude-ft type="double">3497.375328</altitude-ft>
+      <ident type="string">WP21</ident>
+      <lon type="double">-0.397367</lon>
+      <lat type="double">41.280518</lat>
+    </wp>
+    <wp n="22">
+      <type type="string">basic</type>
+      <alt-restrict type="string">at</alt-restrict>
+      <altitude-ft type="double">3497.375328</altitude-ft>
+      <ident type="string">WP22</ident>
+      <lon type="double">-0.368625</lon>
+      <lat type="double">41.314392</lat>
+    </wp>
+    <wp n="23">
+      <type type="string">basic</type>
+      <alt-restrict type="string">at</alt-restrict>
+      <altitude-ft type="double">3497.375328</altitude-ft>
+      <ident type="string">WP23</ident>
+      <lon type="double">-0.335161</lon>
+      <lat type="double">41.32272</lat>
+    </wp>
+    <wp n="24">
+      <type type="string">basic</type>
+      <alt-restrict type="string">at</alt-restrict>
+      <altitude-ft type="double">3497.375328</altitude-ft>
+      <ident type="string">WP24</ident>
+      <lon type="double">-0.330175</lon>
+      <lat type="double">41.338963</lat>
+    </wp>
+    <wp n="25">
+      <type type="string">basic</type>
+      <alt-restrict type="string">at</alt-restrict>
+      <altitude-ft type="double">3497.375328</altitude-ft>
+      <ident type="string">WP25</ident>
+      <lon type="double">-0.420808</lon>
+      <lat type="double">41.333115</lat>
+    </wp>
+    <wp n="26">
+      <type type="string">basic</type>
+      <alt-restrict type="string">at</alt-restrict>
+      <altitude-ft type="double">3497.375328</altitude-ft>
+      <ident type="string">WP26</ident>
+      <lon type="double">-0.470447</lon>
+      <lat type="double">41.439308</lat>
+    </wp>
+    <wp n="27">
+      <type type="string">basic</type>
+      <alt-restrict type="string">at</alt-restrict>
+      <altitude-ft type="double">3497.375328</altitude-ft>
+      <ident type="string">WP27</ident>
+      <lon type="double">-0.631331</lon>
+      <lat type="double">41.554581</lat>
+    </wp>
+    <wp n="28">
+      <type type="string">basic</type>
+      <alt-restrict type="string">at</alt-restrict>
+      <altitude-ft type="double">3497.375328</altitude-ft>
+      <ident type="string">WP28</ident>
+      <lon type="double">-0.827722</lon>
+      <lat type="double">41.615341</lat>
+    </wp>
+    <wp n="29">
+      <type type="string">basic</type>
+      <alt-restrict type="string">at</alt-restrict>
+      <altitude-ft type="double">3497.375328</altitude-ft>
+      <ident type="string">WP29</ident>
+      <lon type="double">-0.961594</lon>
+      <lat type="double">41.713238</lat>
+    </wp>
+    <wp n="30">
+      <type type="string">basic</type>
+      <alt-restrict type="string">at</alt-restrict>
+      <altitude-ft type="double">3497.375328</altitude-ft>
+      <ident type="string">WP30</ident>
+      <lon type="double">-1.092122</lon>
+      <lat type="double">41.795757</lat>
+    </wp>
+    <wp n="31">
+      <type type="string">basic</type>
+      <alt-restrict type="string">at</alt-restrict>
+      <altitude-ft type="double">3497.375328</altitude-ft>
+      <ident type="string">WP31</ident>
+      <lon type="double">-1.1493</lon>
+      <lat type="double">41.781807</lat>
+    </wp>
+    <wp n="32">
+      <type type="string">basic</type>
+      <alt-restrict type="string">at</alt-restrict>
+      <altitude-ft type="double">3497.375328</altitude-ft>
+      <ident type="string">WP32</ident>
+      <lon type="double">-1.16688</lon>
+      <lat type="double">41.795361</lat>
+    </wp>
+    <wp n="33">
+      <type type="string">basic</type>
+      <alt-restrict type="string">at</alt-restrict>
+      <altitude-ft type="double">3497.375328</altitude-ft>
+      <ident type="string">WP33</ident>
+      <lon type="double">-1.173967</lon>
+      <lat type="double">41.829361</lat>
+    </wp>
+    <wp n="34">
+      <type type="string">basic</type>
+      <alt-restrict type="string">at</alt-restrict>
+      <altitude-ft type="double">3497.375328</altitude-ft>
+      <ident type="string">WP34</ident>
+      <lon type="double">-1.21445</lon>
+      <lat type="double">41.819885</lat>
+    </wp>
+    <wp n="35">
+      <type type="string">basic</type>
+      <alt-restrict type="string">at</alt-restrict>
+      <altitude-ft type="double">3497.375328</altitude-ft>
+      <ident type="string">WP35</ident>
+      <lon type="double">-1.272547</lon>
+      <lat type="double">41.877144</lat>
+    </wp>
+    <wp n="36">
+      <type type="string">basic</type>
+      <alt-restrict type="string">at</alt-restrict>
+      <altitude-ft type="double">3497.375328</altitude-ft>
+      <ident type="string">WP36</ident>
+      <lon type="double">-1.314222</lon>
+      <lat type="double">41.869293</lat>
+    </wp>
+    <wp n="37">
+      <type type="string">basic</type>
+      <alt-restrict type="string">at</alt-restrict>
+      <altitude-ft type="double">3497.375328</altitude-ft>
+      <ident type="string">WP37</ident>
+      <lon type="double">-1.333064</lon>
+      <lat type="double">41.910587</lat>
+    </wp>
+    <wp n="38">
+      <type type="string">basic</type>
+      <alt-restrict type="string">at</alt-restrict>
+      <altitude-ft type="double">3497.375328</altitude-ft>
+      <ident type="string">WP38</ident>
+      <lon type="double">-1.36385</lon>
+      <lat type="double">41.909092</lat>
+    </wp>
+    <wp n="39">
+      <type type="string">basic</type>
+      <alt-restrict type="string">at</alt-restrict>
+      <altitude-ft type="double">3497.375328</altitude-ft>
+      <ident type="string">WP39</ident>
+      <lon type="double">-1.431514</lon>
+      <lat type="double">41.986649</lat>
+    </wp>
+    <wp n="40">
+      <type type="string">basic</type>
+      <alt-restrict type="string">at</alt-restrict>
+      <altitude-ft type="double">3497.375328</altitude-ft>
+      <ident type="string">WP40</ident>
+      <lon type="double">-1.601178</lon>
+      <lat type="double">42.064827</lat>
+    </wp>
+    <wp n="41">
+      <type type="string">basic</type>
+      <alt-restrict type="string">at</alt-restrict>
+      <altitude-ft type="double">3497.375328</altitude-ft>
+      <ident type="string">WP41</ident>
+      <lon type="double">-1.589733</lon>
+      <lat type="double">42.12743</lat>
+    </wp>
+    <wp n="42">
+      <type type="string">basic</type>
+      <alt-restrict type="string">at</alt-restrict>
+      <altitude-ft type="double">3497.375328</altitude-ft>
+      <ident type="string">WP42</ident>
+      <lon type="double">-1.752542</lon>
+      <lat type="double">42.220142</lat>
+    </wp>
+    <wp n="43">
+      <type type="string">basic</type>
+      <alt-restrict type="string">at</alt-restrict>
+      <altitude-ft type="double">3497.375328</altitude-ft>
+      <ident type="string">WP43</ident>
+      <lon type="double">-1.875767</lon>
+      <lat type="double">42.254707</lat>
+    </wp>
+    <wp n="44">
+      <type type="string">basic</type>
+      <alt-restrict type="string">at</alt-restrict>
+      <altitude-ft type="double">3497.375328</altitude-ft>
+      <ident type="string">WP44</ident>
+      <lon type="double">-1.870117</lon>
+      <lat type="double">42.28688</lat>
+    </wp>
+    <wp n="45">
+      <type type="string">basic</type>
+      <alt-restrict type="string">at</alt-restrict>
+      <altitude-ft type="double">3497.375328</altitude-ft>
+      <ident type="string">WP45</ident>
+      <lon type="double">-1.91398</lon>
+      <lat type="double">42.301731</lat>
+    </wp>
+    <wp n="46">
+      <type type="string">basic</type>
+      <alt-restrict type="string">at</alt-restrict>
+      <altitude-ft type="double">3497.375328</altitude-ft>
+      <ident type="string">WP46</ident>
+      <lon type="double">-1.935825</lon>
+      <lat type="double">42.333214</lat>
+    </wp>
+    <wp n="47">
+      <type type="string">basic</type>
+      <alt-restrict type="string">at</alt-restrict>
+      <altitude-ft type="double">3497.375328</altitude-ft>
+      <ident type="string">WP47</ident>
+      <lon type="double">-2.012122</lon>
+      <lat type="double">42.368977</lat>
+    </wp>
+    <wp n="48">
+      <type type="string">basic</type>
+      <alt-restrict type="string">at</alt-restrict>
+      <altitude-ft type="double">3497.375328</altitude-ft>
+      <ident type="string">WP48</ident>
+      <lon type="double">-2.054517</lon>
+      <lat type="double">42.359364</lat>
+    </wp>
+    <wp n="49">
+      <type type="string">basic</type>
+      <alt-restrict type="string">at</alt-restrict>
+      <altitude-ft type="double">3497.375328</altitude-ft>
+      <ident type="string">WP49</ident>
+      <lon type="double">-2.07388</lon>
+      <lat type="double">42.418446</lat>
+    </wp>
+    <wp n="50">
+      <type type="string">basic</type>
+      <alt-restrict type="string">at</alt-restrict>
+      <altitude-ft type="double">3497.375328</altitude-ft>
+      <ident type="string">WP50</ident>
+      <lon type="double">-2.2066</lon>
+      <lat type="double">42.414753</lat>
+    </wp>
+    <wp n="51">
+      <type type="string">basic</type>
+      <alt-restrict type="string">at</alt-restrict>
+      <altitude-ft type="double">3497.375328</altitude-ft>
+      <ident type="string">WP51</ident>
+      <lon type="double">-2.286353</lon>
+      <lat type="double">42.462887</lat>
+    </wp>
+    <wp n="52">
+      <type type="string">navaid</type>
+      <alt-restrict type="string">at</alt-restrict>
+      <altitude-ft type="double">3497.375328</altitude-ft>
+      <ident type="string">LERJ</ident>
+      <lon type="double">-2.317434683</lon>
+      <lat type="double">42.45838355</lat>
+    </wp>
+    <wp n="53">
+      <type type="string">basic</type>
+      <alt-restrict type="string">at</alt-restrict>
+      <altitude-ft type="double">3497.375328</altitude-ft>
+      <ident type="string">WP52</ident>
+      <lon type="double">-2.455233</lon>
+      <lat type="double">42.471478</lat>
+    </wp>
+    <wp n="54">
+      <type type="string">basic</type>
+      <alt-restrict type="string">at</alt-restrict>
+      <altitude-ft type="double">3497.375328</altitude-ft>
+      <ident type="string">WP53</ident>
+      <lon type="double">-2.508639</lon>
+      <lat type="double">42.48962</lat>
+    </wp>
+    <wp n="55">
+      <type type="string">basic</type>
+      <alt-restrict type="string">at</alt-restrict>
+      <altitude-ft type="double">3497.375328</altitude-ft>
+      <ident type="string">WP54</ident>
+      <lon type="double">-2.510058</lon>
+      <lat type="double">42.519283</lat>
+    </wp>
+    <wp n="56">
+      <type type="string">basic</type>
+      <alt-restrict type="string">at</alt-restrict>
+      <altitude-ft type="double">3497.375328</altitude-ft>
+      <ident type="string">WP55</ident>
+      <lon type="double">-2.541981</lon>
+      <lat type="double">42.483166</lat>
+    </wp>
+    <wp n="57">
+      <type type="string">basic</type>
+      <alt-restrict type="string">at</alt-restrict>
+      <altitude-ft type="double">3497.375328</altitude-ft>
+      <ident type="string">WP56</ident>
+      <lon type="double">-2.589508</lon>
+      <lat type="double">42.471619</lat>
+    </wp>
+    <wp n="58">
+      <type type="string">basic</type>
+      <alt-restrict type="string">at</alt-restrict>
+      <altitude-ft type="double">3497.375328</altitude-ft>
+      <ident type="string">WP57</ident>
+      <lon type="double">-2.605333</lon>
+      <lat type="double">42.50359</lat>
+    </wp>
+    <wp n="59">
+      <type type="string">basic</type>
+      <alt-restrict type="string">at</alt-restrict>
+      <altitude-ft type="double">3497.375328</altitude-ft>
+      <ident type="string">WP58</ident>
+      <lon type="double">-2.645197</lon>
+      <lat type="double">42.482769</lat>
+    </wp>
+    <wp n="60">
+      <type type="string">basic</type>
+      <alt-restrict type="string">at</alt-restrict>
+      <altitude-ft type="double">3497.375328</altitude-ft>
+      <ident type="string">WP59</ident>
+      <lon type="double">-2.678172</lon>
+      <lat type="double">42.526337</lat>
+    </wp>
+    <wp n="61">
+      <type type="string">basic</type>
+      <alt-restrict type="string">at</alt-restrict>
+      <altitude-ft type="double">3497.375328</altitude-ft>
+      <ident type="string">WP60</ident>
+      <lon type="double">-2.741611</lon>
+      <lat type="double">42.516792</lat>
+    </wp>
+    <wp n="62">
+      <type type="string">basic</type>
+      <alt-restrict type="string">at</alt-restrict>
+      <altitude-ft type="double">3497.375328</altitude-ft>
+      <ident type="string">WP61</ident>
+      <lon type="double">-2.717867</lon>
+      <lat type="double">42.537689</lat>
+    </wp>
+    <wp n="63">
+      <type type="string">basic</type>
+      <alt-restrict type="string">at</alt-restrict>
+      <altitude-ft type="double">3497.375328</altitude-ft>
+      <ident type="string">WP62</ident>
+      <lon type="double">-2.773136</lon>
+      <lat type="double">42.543076</lat>
+    </wp>
+    <wp n="64">
+      <type type="string">basic</type>
+      <alt-restrict type="string">at</alt-restrict>
+      <altitude-ft type="double">3497.375328</altitude-ft>
+      <ident type="string">WP63</ident>
+      <lon type="double">-2.759883</lon>
+      <lat type="double">42.554104</lat>
+    </wp>
+    <wp n="65">
+      <type type="string">basic</type>
+      <alt-restrict type="string">at</alt-restrict>
+      <altitude-ft type="double">3497.375328</altitude-ft>
+      <ident type="string">WP64</ident>
+      <lon type="double">-2.7671</lon>
+      <lat type="double">42.565361</lat>
+    </wp>
+    <wp n="66">
+      <type type="string">basic</type>
+      <alt-restrict type="string">at</alt-restrict>
+      <altitude-ft type="double">3497.375328</altitude-ft>
+      <ident type="string">WP65</ident>
+      <lon type="double">-2.784925</lon>
+      <lat type="double">42.546532</lat>
+    </wp>
+    <wp n="67">
+      <type type="string">basic</type>
+      <alt-restrict type="string">at</alt-restrict>
+      <altitude-ft type="double">3497.375328</altitude-ft>
+      <ident type="string">WP66</ident>
+      <lon type="double">-2.805931</lon>
+      <lat type="double">42.571434</lat>
+    </wp>
+    <wp n="68">
+      <type type="string">basic</type>
+      <alt-restrict type="string">at</alt-restrict>
+      <altitude-ft type="double">3497.375328</altitude-ft>
+      <ident type="string">WP67</ident>
+      <lon type="double">-2.823475</lon>
+      <lat type="double">42.554321</lat>
+    </wp>
+    <wp n="69">
+      <type type="string">basic</type>
+      <alt-restrict type="string">at</alt-restrict>
+      <altitude-ft type="double">3497.375328</altitude-ft>
+      <ident type="string">WP68</ident>
+      <lon type="double">-2.840967</lon>
+      <lat type="double">42.58075</lat>
+    </wp>
+    <wp n="70">
+      <type type="string">basic</type>
+      <alt-restrict type="string">at</alt-restrict>
+      <altitude-ft type="double">3497.375328</altitude-ft>
+      <ident type="string">WP69</ident>
+      <lon type="double">-2.81855</lon>
+      <lat type="double">42.599228</lat>
+    </wp>
+    <wp n="71">
+      <type type="string">basic</type>
+      <alt-restrict type="string">at</alt-restrict>
+      <altitude-ft type="double">3497.375328</altitude-ft>
+      <ident type="string">WP70</ident>
+      <lon type="double">-2.859444</lon>
+      <lat type="double">42.589985</lat>
+    </wp>
+    <wp n="72">
+      <type type="string">basic</type>
+      <alt-restrict type="string">at</alt-restrict>
+      <altitude-ft type="double">3497.375328</altitude-ft>
+      <ident type="string">WP71</ident>
+      <lon type="double">-2.842064</lon>
+      <lat type="double">42.627029</lat>
+    </wp>
+    <wp n="73">
+      <type type="string">basic</type>
+      <alt-restrict type="string">at</alt-restrict>
+      <altitude-ft type="double">3497.375328</altitude-ft>
+      <ident type="string">WP72</ident>
+      <lon type="double">-2.895872</lon>
+      <lat type="double">42.653061</lat>
+    </wp>
+    <wp n="74">
+      <type type="string">basic</type>
+      <alt-restrict type="string">at</alt-restrict>
+      <altitude-ft type="double">3497.375328</altitude-ft>
+      <ident type="string">WP73</ident>
+      <lon type="double">-2.904642</lon>
+      <lat type="double">42.672184</lat>
+    </wp>
+    <wp n="75">
+      <type type="string">basic</type>
+      <alt-restrict type="string">at</alt-restrict>
+      <altitude-ft type="double">3497.375328</altitude-ft>
+      <ident type="string">WP74</ident>
+      <lon type="double">-2.928947</lon>
+      <lat type="double">42.675339</lat>
+    </wp>
+    <wp n="76">
+      <type type="string">basic</type>
+      <alt-restrict type="string">at</alt-restrict>
+      <altitude-ft type="double">3497.375328</altitude-ft>
+      <ident type="string">WP75</ident>
+      <lon type="double">-2.948481</lon>
+      <lat type="double">42.681175</lat>
+    </wp>
+    <wp n="77">
+      <type type="string">basic</type>
+      <alt-restrict type="string">at</alt-restrict>
+      <altitude-ft type="double">3497.375328</altitude-ft>
+      <ident type="string">WP76</ident>
+      <lon type="double">-2.957411</lon>
+      <lat type="double">42.690544</lat>
+    </wp>
+    <wp n="78">
+      <type type="string">basic</type>
+      <alt-restrict type="string">at</alt-restrict>
+      <altitude-ft type="double">3497.375328</altitude-ft>
+      <ident type="string">WARN1</ident>
+      <lon type="double">-2.967764</lon>
+      <lat type="double">42.692764</lat>
+    </wp>
+    <wp n="79">
+      <type type="string">basic</type>
+      <alt-restrict type="string">at</alt-restrict>
+      <altitude-ft type="double">3497.375328</altitude-ft>
+      <ident type="string">WP77</ident>
+      <lon type="double">-3.015247</lon>
+      <lat type="double">42.733139</lat>
+    </wp>
+    <wp n="80">
+      <type type="string">basic</type>
+      <alt-restrict type="string">at</alt-restrict>
+      <altitude-ft type="double">3497.375328</altitude-ft>
+      <ident type="string">WP78</ident>
+      <lon type="double">-3.040694</lon>
+      <lat type="double">42.738407</lat>
+    </wp>
+    <wp n="81">
+      <type type="string">basic</type>
+      <alt-restrict type="string">at</alt-restrict>
+      <altitude-ft type="double">3497.375328</altitude-ft>
+      <ident type="string">WP79</ident>
+      <lon type="double">-3.048222</lon>
+      <lat type="double">42.765175</lat>
+    </wp>
+    <wp n="82">
+      <type type="string">basic</type>
+      <alt-restrict type="string">at</alt-restrict>
+      <altitude-ft type="double">3497.375328</altitude-ft>
+      <ident type="string">WP80</ident>
+      <lon type="double">-3.084444</lon>
+      <lat type="double">42.757538</lat>
+    </wp>
+    <wp n="83">
+      <type type="string">basic</type>
+      <alt-restrict type="string">at</alt-restrict>
+      <altitude-ft type="double">3497.375328</altitude-ft>
+      <ident type="string">WP81</ident>
+      <lon type="double">-3.099469</lon>
+      <lat type="double">42.767181</lat>
+    </wp>
+    <wp n="84">
+      <type type="string">basic</type>
+      <alt-restrict type="string">at</alt-restrict>
+      <altitude-ft type="double">3497.375328</altitude-ft>
+      <ident type="string">WP82</ident>
+      <lon type="double">-3.129956</lon>
+      <lat type="double">42.757366</lat>
+    </wp>
+    <wp n="85">
+      <type type="string">basic</type>
+      <alt-restrict type="string">at</alt-restrict>
+      <altitude-ft type="double">3497.375328</altitude-ft>
+      <ident type="string">WP83</ident>
+      <lon type="double">-3.152175</lon>
+      <lat type="double">42.757053</lat>
+    </wp>
+    <wp n="86">
+      <type type="string">basic</type>
+      <alt-restrict type="string">at</alt-restrict>
+      <altitude-ft type="double">3497.375328</altitude-ft>
+      <ident type="string">WP84</ident>
+      <lon type="double">-3.206219</lon>
+      <lat type="double">42.768402</lat>
+    </wp>
+    <wp n="87">
+      <type type="string">basic</type>
+      <alt-restrict type="string">at</alt-restrict>
+      <altitude-ft type="double">3497.375328</altitude-ft>
+      <ident type="string">WP85</ident>
+      <lon type="double">-3.198039</lon>
+      <lat type="double">42.77573</lat>
+    </wp>
+    <wp n="88">
+      <type type="string">basic</type>
+      <alt-restrict type="string">at</alt-restrict>
+      <altitude-ft type="double">3497.375328</altitude-ft>
+      <ident type="string">WP86</ident>
+      <lon type="double">-3.207722</lon>
+      <lat type="double">42.77911</lat>
+    </wp>
+    <wp n="89">
+      <type type="string">basic</type>
+      <alt-restrict type="string">at</alt-restrict>
+      <altitude-ft type="double">3497.375328</altitude-ft>
+      <ident type="string">WP87</ident>
+      <lon type="double">-3.243406</lon>
+      <lat type="double">42.761551</lat>
+    </wp>
+    <wp n="90">
+      <type type="string">basic</type>
+      <alt-restrict type="string">at</alt-restrict>
+      <altitude-ft type="double">3497.375328</altitude-ft>
+      <ident type="string">WP88</ident>
+      <lon type="double">-3.256172</lon>
+      <lat type="double">42.785778</lat>
+    </wp>
+    <wp n="91">
+      <type type="string">basic</type>
+      <alt-restrict type="string">at</alt-restrict>
+      <altitude-ft type="double">3497.375328</altitude-ft>
+      <ident type="string">WP89</ident>
+      <lon type="double">-3.267786</lon>
+      <lat type="double">42.781845</lat>
+    </wp>
+    <wp n="92">
+      <type type="string">basic</type>
+      <alt-restrict type="string">at</alt-restrict>
+      <altitude-ft type="double">3497.375328</altitude-ft>
+      <ident type="string">WP90</ident>
+      <lon type="double">-3.261608</lon>
+      <lat type="double">42.771461</lat>
+    </wp>
+    <wp n="93">
+      <type type="string">basic</type>
+      <alt-restrict type="string">at</alt-restrict>
+      <altitude-ft type="double">3497.375328</altitude-ft>
+      <ident type="string">WP91</ident>
+      <lon type="double">-3.266572</lon>
+      <lat type="double">42.761005</lat>
+    </wp>
+    <wp n="94">
+      <type type="string">basic</type>
+      <alt-restrict type="string">at</alt-restrict>
+      <altitude-ft type="double">3497.375328</altitude-ft>
+      <ident type="string">WP92</ident>
+      <lon type="double">-3.273047</lon>
+      <lat type="double">42.758892</lat>
+    </wp>
+    <wp n="95">
+      <type type="string">basic</type>
+      <alt-restrict type="string">at</alt-restrict>
+      <altitude-ft type="double">3497.375328</altitude-ft>
+      <ident type="string">WP93</ident>
+      <lon type="double">-3.283486</lon>
+      <lat type="double">42.759186</lat>
+    </wp>
+    <wp n="96">
+      <type type="string">basic</type>
+      <alt-restrict type="string">at</alt-restrict>
+      <altitude-ft type="double">3497.375328</altitude-ft>
+      <ident type="string">WARN2</ident>
+      <lon type="double">-3.285756</lon>
+      <lat type="double">42.762794</lat>
+    </wp>
+    <wp n="97">
+      <type type="string">basic</type>
+      <alt-restrict type="string">at</alt-restrict>
+      <altitude-ft type="double">3497.375328</altitude-ft>
+      <ident type="string">WP94</ident>
+      <lon type="double">-3.287925</lon>
+      <lat type="double">42.765808</lat>
+    </wp>
+    <wp n="98">
+      <type type="string">basic</type>
+      <alt-restrict type="string">at</alt-restrict>
+      <altitude-ft type="double">3497.375328</altitude-ft>
+      <ident type="string">WP95</ident>
+      <lon type="double">-3.292844</lon>
+      <lat type="double">42.769203</lat>
+    </wp>
+    <wp n="99">
+      <type type="string">basic</type>
+      <alt-restrict type="string">at</alt-restrict>
+      <altitude-ft type="double">3497.375328</altitude-ft>
+      <ident type="string">WP96</ident>
+      <lon type="double">-3.333625</lon>
+      <lat type="double">42.777275</lat>
+    </wp>
+    <wp n="100">
+      <type type="string">basic</type>
+      <alt-restrict type="string">at</alt-restrict>
+      <altitude-ft type="double">3497.375328</altitude-ft>
+      <ident type="string">WP97</ident>
+      <lon type="double">-3.344097</lon>
+      <lat type="double">42.792446</lat>
+    </wp>
+    <wp n="101">
+      <type type="string">basic</type>
+      <alt-restrict type="string">at</alt-restrict>
+      <altitude-ft type="double">3497.375328</altitude-ft>
+      <ident type="string">WP98</ident>
+      <lon type="double">-3.36972</lon>
+      <lat type="double">42.777885</lat>
+    </wp>
+    <wp n="102">
+      <type type="string">basic</type>
+      <alt-restrict type="string">at</alt-restrict>
+      <altitude-ft type="double">3497.375328</altitude-ft>
+      <ident type="string">WP99</ident>
+      <lon type="double">-3.396386</lon>
+      <lat type="double">42.794586</lat>
+    </wp>
+    <wp n="103">
+      <type type="string">basic</type>
+      <alt-restrict type="string">at</alt-restrict>
+      <altitude-ft type="double">3497.375328</altitude-ft>
+      <ident type="string">WP100</ident>
+      <lon type="double">-3.436506</lon>
+      <lat type="double">42.765053</lat>
+    </wp>
+    <wp n="104">
+      <type type="string">basic</type>
+      <alt-restrict type="string">at</alt-restrict>
+      <altitude-ft type="double">3497.375328</altitude-ft>
+      <ident type="string">WP101</ident>
+      <lon type="double">-3.486742</lon>
+      <lat type="double">42.799133</lat>
+    </wp>
+    <wp n="105">
+      <type type="string">basic</type>
+      <alt-restrict type="string">at</alt-restrict>
+      <altitude-ft type="double">3497.375328</altitude-ft>
+      <ident type="string">WP102</ident>
+      <lon type="double">-3.591017</lon>
+      <lat type="double">42.841492</lat>
+    </wp>
+    <wp n="106">
+      <type type="string">basic</type>
+      <alt-restrict type="string">at</alt-restrict>
+      <altitude-ft type="double">3497.375328</altitude-ft>
+      <ident type="string">WP103</ident>
+      <lon type="double">-3.597614</lon>
+      <lat type="double">42.849316</lat>
+    </wp>
+    <wp n="107">
+      <type type="string">basic</type>
+      <alt-restrict type="string">at</alt-restrict>
+      <altitude-ft type="double">3497.375328</altitude-ft>
+      <ident type="string">WP104</ident>
+      <lon type="double">-3.598919</lon>
+      <lat type="double">42.888203</lat>
+    </wp>
+    <wp n="108">
+      <type type="string">basic</type>
+      <alt-restrict type="string">at</alt-restrict>
+      <altitude-ft type="double">3497.375328</altitude-ft>
+      <ident type="string">WP105</ident>
+      <lon type="double">-3.687459</lon>
+      <lat type="double">42.889767</lat>
+    </wp>
+    <wp n="109">
+      <type type="string">basic</type>
+      <alt-restrict type="string">at</alt-restrict>
+      <altitude-ft type="double">3497.375328</altitude-ft>
+      <ident type="string">WP106</ident>
+      <lon type="double">-3.709472</lon>
+      <lat type="double">42.897842</lat>
+    </wp>
+    <wp n="110">
+      <type type="string">basic</type>
+      <alt-restrict type="string">at</alt-restrict>
+      <altitude-ft type="double">3497.375328</altitude-ft>
+      <ident type="string">WP107</ident>
+      <lon type="double">-3.724945</lon>
+      <lat type="double">42.884117</lat>
+    </wp>
+    <wp n="111">
+      <type type="string">basic</type>
+      <alt-restrict type="string">at</alt-restrict>
+      <altitude-ft type="double">3497.375328</altitude-ft>
+      <ident type="string">WP108</ident>
+      <lon type="double">-3.705478</lon>
+      <lat type="double">42.863136</lat>
+    </wp>
+    <wp n="112">
+      <type type="string">basic</type>
+      <alt-restrict type="string">at</alt-restrict>
+      <altitude-ft type="double">3497.375328</altitude-ft>
+      <ident type="string">WP109</ident>
+      <lon type="double">-3.730044</lon>
+      <lat type="double">42.84</lat>
+    </wp>
+    <wp n="113">
+      <type type="string">basic</type>
+      <alt-restrict type="string">at</alt-restrict>
+      <altitude-ft type="double">3497.375328</altitude-ft>
+      <ident type="string">WP110</ident>
+      <lon type="double">-3.722736</lon>
+      <lat type="double">42.791325</lat>
+    </wp>
+    <wp n="114">
+      <type type="string">basic</type>
+      <alt-restrict type="string">at</alt-restrict>
+      <altitude-ft type="double">3497.375328</altitude-ft>
+      <ident type="string">WP111</ident>
+      <lon type="double">-3.74372</lon>
+      <lat type="double">42.786068</lat>
+    </wp>
+    <wp n="115">
+      <type type="string">basic</type>
+      <alt-restrict type="string">at</alt-restrict>
+      <altitude-ft type="double">3497.375328</altitude-ft>
+      <ident type="string">WP112</ident>
+      <lon type="double">-3.755147</lon>
+      <lat type="double">42.777245</lat>
+    </wp>
+    <wp n="116">
+      <type type="string">basic</type>
+      <alt-restrict type="string">at</alt-restrict>
+      <altitude-ft type="double">3497.375328</altitude-ft>
+      <ident type="string">WARN3A</ident>
+      <lon type="double">-3.758467</lon>
+      <lat type="double">42.779411</lat>
+    </wp>
+    <wp n="117">
+      <type type="string">basic</type>
+      <alt-restrict type="string">at</alt-restrict>
+      <altitude-ft type="double">3497.375328</altitude-ft>
+      <ident type="string">WARN3B</ident>
+      <lon type="double">-3.763994</lon>
+      <lat type="double">42.781094</lat>
+    </wp>
+    <wp n="118">
+      <type type="string">basic</type>
+      <alt-restrict type="string">at</alt-restrict>
+      <altitude-ft type="double">3497.375328</altitude-ft>
+      <ident type="string">WP113</ident>
+      <lon type="double">-3.766053</lon>
+      <lat type="double">42.782871</lat>
+    </wp>
+    <wp n="119">
+      <type type="string">basic</type>
+      <alt-restrict type="string">at</alt-restrict>
+      <altitude-ft type="double">3497.375328</altitude-ft>
+      <ident type="string">WP114</ident>
+      <lon type="double">-3.770555</lon>
+      <lat type="double">42.803211</lat>
+    </wp>
+    <wp n="120">
+      <type type="string">basic</type>
+      <alt-restrict type="string">at</alt-restrict>
+      <altitude-ft type="double">3497.375328</altitude-ft>
+      <ident type="string">WP115</ident>
+      <lon type="double">-3.787625</lon>
+      <lat type="double">42.810329</lat>
+    </wp>
+    <wp n="121">
+      <type type="string">basic</type>
+      <alt-restrict type="string">at</alt-restrict>
+      <altitude-ft type="double">3497.375328</altitude-ft>
+      <ident type="string">WP116</ident>
+      <lon type="double">-3.788747</lon>
+      <lat type="double">42.836227</lat>
+    </wp>
+    <wp n="122">
+      <type type="string">basic</type>
+      <alt-restrict type="string">at</alt-restrict>
+      <altitude-ft type="double">3497.375328</altitude-ft>
+      <ident type="string">WP117</ident>
+      <lon type="double">-3.826847</lon>
+      <lat type="double">42.824413</lat>
+    </wp>
+    <wp n="123">
+      <type type="string">basic</type>
+      <alt-restrict type="string">at</alt-restrict>
+      <altitude-ft type="double">3497.375328</altitude-ft>
+      <ident type="string">WP118</ident>
+      <lon type="double">-3.885003</lon>
+      <lat type="double">42.832802</lat>
+    </wp>
+    <wp n="124">
+      <type type="string">basic</type>
+      <alt-restrict type="string">at</alt-restrict>
+      <altitude-ft type="double">3497.375328</altitude-ft>
+      <ident type="string">WP119</ident>
+      <lon type="double">-3.931286</lon>
+      <lat type="double">42.802509</lat>
+    </wp>
+    <wp n="125">
+      <type type="string">basic</type>
+      <alt-restrict type="string">at</alt-restrict>
+      <altitude-ft type="double">3497.375328</altitude-ft>
+      <ident type="string">WP120</ident>
+      <lon type="double">-3.960064</lon>
+      <lat type="double">42.800411</lat>
+    </wp>
+    <wp n="126">
+      <type type="string">basic</type>
+      <alt-restrict type="string">at</alt-restrict>
+      <altitude-ft type="double">3497.375328</altitude-ft>
+      <ident type="string">WP121</ident>
+      <lon type="double">-3.957572</lon>
+      <lat type="double">42.788979</lat>
+    </wp>
+    <wp n="127">
+      <type type="string">basic</type>
+      <alt-restrict type="string">at</alt-restrict>
+      <altitude-ft type="double">3497.375328</altitude-ft>
+      <ident type="string">WP122</ident>
+      <lon type="double">-3.969933</lon>
+      <lat type="double">42.788639</lat>
+    </wp>
+    <wp n="128">
+      <type type="string">basic</type>
+      <alt-restrict type="string">at</alt-restrict>
+      <altitude-ft type="double">3497.375328</altitude-ft>
+      <ident type="string">WP123</ident>
+      <lon type="double">-3.978642</lon>
+      <lat type="double">42.803734</lat>
+    </wp>
+    <wp n="129">
+      <type type="string">basic</type>
+      <alt-restrict type="string">at</alt-restrict>
+      <altitude-ft type="double">3497.375328</altitude-ft>
+      <ident type="string">WP124</ident>
+      <lon type="double">-3.986833</lon>
+      <lat type="double">42.78677</lat>
+    </wp>
+    <wp n="130">
+      <type type="string">basic</type>
+      <alt-restrict type="string">at</alt-restrict>
+      <altitude-ft type="double">3497.375328</altitude-ft>
+      <ident type="string">WP125</ident>
+      <lon type="double">-3.996986</lon>
+      <lat type="double">42.786396</lat>
+    </wp>
+    <wp n="131">
+      <type type="string">basic</type>
+      <alt-restrict type="string">at</alt-restrict>
+      <altitude-ft type="double">3497.375328</altitude-ft>
+      <ident type="string">WP126</ident>
+      <lon type="double">-3.998628</lon>
+      <lat type="double">42.801697</lat>
+    </wp>
+    <wp n="132">
+      <type type="string">basic</type>
+      <alt-restrict type="string">at</alt-restrict>
+      <altitude-ft type="double">3497.375328</altitude-ft>
+      <ident type="string">WP127</ident>
+      <lon type="double">-4.006072</lon>
+      <lat type="double">42.794918</lat>
+    </wp>
+    <wp n="133">
+      <type type="string">basic</type>
+      <alt-restrict type="string">at</alt-restrict>
+      <altitude-ft type="double">3497.375328</altitude-ft>
+      <ident type="string">WP128</ident>
+      <lon type="double">-4.014042</lon>
+      <lat type="double">42.798634</lat>
+    </wp>
+    <wp n="134">
+      <type type="string">basic</type>
+      <alt-restrict type="string">at</alt-restrict>
+      <altitude-ft type="double">3497.375328</altitude-ft>
+      <ident type="string">WP129</ident>
+      <lon type="double">-4.016031</lon>
+      <lat type="double">42.807285</lat>
+    </wp>
+    <wp n="135">
+      <type type="string">basic</type>
+      <alt-restrict type="string">at</alt-restrict>
+      <altitude-ft type="double">3497.375328</altitude-ft>
+      <ident type="string">WP130</ident>
+      <lon type="double">-4.032775</lon>
+      <lat type="double">42.8018</lat>
+    </wp>
+    <wp n="136">
+      <type type="string">basic</type>
+      <alt-restrict type="string">at</alt-restrict>
+      <altitude-ft type="double">3497.375328</altitude-ft>
+      <ident type="string">WARN4</ident>
+      <lon type="double">-4.037617</lon>
+      <lat type="double">42.803249</lat>
+    </wp>
+    <wp n="137">
+      <type type="string">basic</type>
+      <alt-restrict type="string">at</alt-restrict>
+      <altitude-ft type="double">3497.375328</altitude-ft>
+      <ident type="string">WP131</ident>
+      <lon type="double">-4.043594</lon>
+      <lat type="double">42.832832</lat>
+    </wp>
+    <wp n="138">
+      <type type="string">basic</type>
+      <alt-restrict type="string">at</alt-restrict>
+      <altitude-ft type="double">3497.375328</altitude-ft>
+      <ident type="string">WP132</ident>
+      <lon type="double">-4.0362</lon>
+      <lat type="double">42.860527</lat>
+    </wp>
+    <wp n="139">
+      <type type="string">basic</type>
+      <alt-restrict type="string">at</alt-restrict>
+      <altitude-ft type="double">3497.375328</altitude-ft>
+      <ident type="string">WP133</ident>
+      <lon type="double">-4.034353</lon>
+      <lat type="double">42.903828</lat>
+    </wp>
+    <wp n="140">
+      <type type="string">basic</type>
+      <alt-restrict type="string">at</alt-restrict>
+      <altitude-ft type="double">3497.375328</altitude-ft>
+      <ident type="string">WP134</ident>
+      <lon type="double">-4.025461</lon>
+      <lat type="double">42.923759</lat>
+    </wp>
+    <wp n="141">
+      <type type="string">basic</type>
+      <alt-restrict type="string">at</alt-restrict>
+      <altitude-ft type="double">3497.375328</altitude-ft>
+      <ident type="string">WP135</ident>
+      <lon type="double">-4.049417</lon>
+      <lat type="double">42.938076</lat>
+    </wp>
+    <wp n="142">
+      <type type="string">basic</type>
+      <alt-restrict type="string">at</alt-restrict>
+      <altitude-ft type="double">3497.375328</altitude-ft>
+      <ident type="string">WP136</ident>
+      <lon type="double">-4.058359</lon>
+      <lat type="double">42.963444</lat>
+    </wp>
+    <wp n="143">
+      <type type="string">basic</type>
+      <alt-restrict type="string">at</alt-restrict>
+      <altitude-ft type="double">3497.375328</altitude-ft>
+      <ident type="string">WP137</ident>
+      <lon type="double">-4.052189</lon>
+      <lat type="double">42.969593</lat>
+    </wp>
+    <wp n="144">
+      <type type="string">basic</type>
+      <alt-restrict type="string">at</alt-restrict>
+      <altitude-ft type="double">3497.375328</altitude-ft>
+      <ident type="string">WP138</ident>
+      <lon type="double">-4.047361</lon>
+      <lat type="double">42.975708</lat>
+    </wp>
+    <wp n="145">
+      <type type="string">basic</type>
+      <alt-restrict type="string">at</alt-restrict>
+      <altitude-ft type="double">3497.375328</altitude-ft>
+      <ident type="string">WP139</ident>
+      <lon type="double">-4.097803</lon>
+      <lat type="double">42.977642</lat>
+    </wp>
+    <wp n="146">
+      <type type="string">basic</type>
+      <alt-restrict type="string">at</alt-restrict>
+      <altitude-ft type="double">3497.375328</altitude-ft>
+      <ident type="string">WP140</ident>
+      <lon type="double">-4.106064</lon>
+      <lat type="double">42.992825</lat>
+    </wp>
+    <wp n="147">
+      <type type="string">basic</type>
+      <alt-restrict type="string">at</alt-restrict>
+      <altitude-ft type="double">3497.375328</altitude-ft>
+      <ident type="string">WP141</ident>
+      <lon type="double">-4.130836</lon>
+      <lat type="double">43.000813</lat>
+    </wp>
+    <wp n="148">
+      <type type="string">basic</type>
+      <alt-restrict type="string">at</alt-restrict>
+      <altitude-ft type="double">3497.375328</altitude-ft>
+      <ident type="string">WP142</ident>
+      <lon type="double">-4.164328</lon>
+      <lat type="double">43.00182</lat>
+    </wp>
+    <wp n="149">
+      <type type="string">basic</type>
+      <alt-restrict type="string">at</alt-restrict>
+      <altitude-ft type="double">3497.375328</altitude-ft>
+      <ident type="string">EBRO</ident>
+      <lon type="double">-4.189403</lon>
+      <lat type="double">43.017189</lat>
+    </wp>
+    <wp n="150">
+      <type type="string">basic</type>
+      <alt-restrict type="string">at</alt-restrict>
+      <altitude-ft type="double">3497.375328</altitude-ft>
+      <ident type="string">BESAYA</ident>
+      <lon type="double">-4.117178</lon>
+      <lat type="double">43.01757</lat>
+    </wp>
+    <wp n="151">
+      <type type="string">basic</type>
+      <alt-restrict type="string">at</alt-restrict>
+      <altitude-ft type="double">3497.375328</altitude-ft>
+      <ident type="string">WP143</ident>
+      <lon type="double">-4.092125</lon>
+      <lat type="double">43.020332</lat>
+    </wp>
+    <wp n="152">
+      <type type="string">basic</type>
+      <alt-restrict type="string">at</alt-restrict>
+      <altitude-ft type="double">3497.375328</altitude-ft>
+      <ident type="string">WP144</ident>
+      <lon type="double">-4.090039</lon>
+      <lat type="double">43.032383</lat>
+    </wp>
+    <wp n="153">
+      <type type="string">basic</type>
+      <alt-restrict type="string">at</alt-restrict>
+      <altitude-ft type="double">3497.375328</altitude-ft>
+      <ident type="string">WP145</ident>
+      <lon type="double">-4.073739</lon>
+      <lat type="double">43.078346</lat>
+    </wp>
+    <wp n="154">
+      <type type="string">basic</type>
+      <alt-restrict type="string">at</alt-restrict>
+      <altitude-ft type="double">3497.375328</altitude-ft>
+      <ident type="string">WP146</ident>
+      <lon type="double">-4.061647</lon>
+      <lat type="double">43.103233</lat>
+    </wp>
+    <wp n="155">
+      <type type="string">basic</type>
+      <alt-restrict type="string">at</alt-restrict>
+      <altitude-ft type="double">3497.375328</altitude-ft>
+      <ident type="string">WP147</ident>
+      <lon type="double">-4.043447</lon>
+      <lat type="double">43.137081</lat>
+    </wp>
+    <wp n="156">
+      <type type="string">basic</type>
+      <alt-restrict type="string">at</alt-restrict>
+      <altitude-ft type="double">3497.375328</altitude-ft>
+      <ident type="string">WP148</ident>
+      <lon type="double">-4.031981</lon>
+      <lat type="double">43.159096</lat>
+    </wp>
+    <wp n="157">
+      <type type="string">basic</type>
+      <alt-restrict type="string">at</alt-restrict>
+      <altitude-ft type="double">3497.375328</altitude-ft>
+      <ident type="string">WP149</ident>
+      <lon type="double">-4.05947</lon>
+      <lat type="double">43.205044</lat>
+    </wp>
+    <wp n="158">
+      <type type="string">basic</type>
+      <alt-restrict type="string">at</alt-restrict>
+      <altitude-ft type="double">3497.375328</altitude-ft>
+      <ident type="string">WP150</ident>
+      <lon type="double">-4.057408</lon>
+      <lat type="double">43.260231</lat>
+    </wp>
+    <wp n="159">
+      <type type="string">basic</type>
+      <alt-restrict type="string">at</alt-restrict>
+      <altitude-ft type="double">3497.375328</altitude-ft>
+      <ident type="string">WP151</ident>
+      <lon type="double">-4.074369</lon>
+      <lat type="double">43.303299</lat>
+    </wp>
+    <wp n="160">
+      <type type="string">basic</type>
+      <alt-restrict type="string">at</alt-restrict>
+      <altitude-ft type="double">3497.375328</altitude-ft>
+      <ident type="string">WP152</ident>
+      <lon type="double">-4.064508</lon>
+      <lat type="double">43.351608</lat>
+    </wp>
+    <wp n="161">
+      <type type="string">basic</type>
+      <alt-restrict type="string">at</alt-restrict>
+      <altitude-ft type="double">3497.375328</altitude-ft>
+      <ident type="string">WP153</ident>
+      <lon type="double">-4.016803</lon>
+      <lat type="double">43.405106</lat>
+    </wp>
+    <wp n="162">
+      <type type="string">basic</type>
+      <alt-restrict type="string">at</alt-restrict>
+      <altitude-ft type="double">3497.375328</altitude-ft>
+      <ident type="string">WP154</ident>
+      <lon type="double">-4.034878</lon>
+      <lat type="double">43.434158</lat>
+    </wp>
+    <wp n="163">
+      <type type="string">runway</type>
+      <approach type="bool">true</approach>
+      <ident type="string">29</ident>
+      <icao type="string">LEXJ</icao>
+    </wp>
+  </route>
+</PropertyList>

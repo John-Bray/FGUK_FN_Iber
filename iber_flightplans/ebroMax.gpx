@@ -1,0 +1,832 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx creator="Little Navmap">
+  <metadata>
+    <link href="https://albar965.github.io/littlenavmap.html">
+      <text>Created by Little Navmap Version 1.8.5 (revision e5bb847) on 2020 09 02T12:45:53</text>
+    </link>
+  </metadata>
+  <rte>
+    <name>LERS to LEXJ Flight Plan</name>
+    <desc>Reus (LERS) to Seve Ballesteros-Santander (LEXJ) at 3500 ft, VFR, Direct</desc>
+    <rtept lat="41.147503" lon="1.167222">
+      <ele>71.0184</ele>
+      <name>LERS</name>
+      <desc>Airport</desc>
+    </rtept>
+    <rtept lat="40.843853" lon="0.763250">
+      <ele>1066</ele>
+      <name>WP1</name>
+      <desc>User</desc>
+    </rtept>
+    <rtept lat="40.719063" lon="0.863461">
+      <ele>1066</ele>
+      <name>WP2</name>
+      <desc>User</desc>
+    </rtept>
+    <rtept lat="40.709557" lon="0.591383">
+      <ele>1066</ele>
+      <name>WP3</name>
+      <desc>User</desc>
+    </rtept>
+    <rtept lat="40.788040" lon="0.501067">
+      <ele>1066</ele>
+      <name>WP4</name>
+      <desc>User</desc>
+    </rtept>
+    <rtept lat="40.953053" lon="0.484944">
+      <ele>1066</ele>
+      <name>WP5</name>
+      <desc>User</desc>
+    </rtept>
+    <rtept lat="41.059830" lon="0.661014">
+      <ele>1066</ele>
+      <name>WP6</name>
+      <desc>User</desc>
+    </rtept>
+    <rtept lat="41.226871" lon="0.548683">
+      <ele>1066</ele>
+      <name>WP7</name>
+      <desc>User</desc>
+    </rtept>
+    <rtept lat="41.241280" lon="0.567192">
+      <ele>1066</ele>
+      <name>WP8</name>
+      <desc>User</desc>
+    </rtept>
+    <rtept lat="41.231991" lon="0.544519">
+      <ele>1066</ele>
+      <name>WP9</name>
+      <desc>User</desc>
+    </rtept>
+    <rtept lat="41.238968" lon="0.362064">
+      <ele>1066</ele>
+      <name>WP10</name>
+      <desc>User</desc>
+    </rtept>
+    <rtept lat="41.357883" lon="0.344228">
+      <ele>1066</ele>
+      <name>WP11</name>
+      <desc>User</desc>
+    </rtept>
+    <rtept lat="41.359444" lon="0.293883">
+      <ele>1066</ele>
+      <name>WP12</name>
+      <desc>User</desc>
+    </rtept>
+    <rtept lat="41.403828" lon="0.210256">
+      <ele>1066</ele>
+      <name>WP13</name>
+      <desc>User</desc>
+    </rtept>
+    <rtept lat="41.385712" lon="0.126528">
+      <ele>1066</ele>
+      <name>WP14</name>
+      <desc>User</desc>
+    </rtept>
+    <rtept lat="41.312572" lon="0.110639">
+      <ele>1066</ele>
+      <name>WP15</name>
+      <desc>User</desc>
+    </rtept>
+    <rtept lat="41.339611" lon="0.091133">
+      <ele>1066</ele>
+      <name>WP16</name>
+      <desc>User</desc>
+    </rtept>
+    <rtept lat="41.278439" lon="0.035456">
+      <ele>1066</ele>
+      <name>WP17</name>
+      <desc>User</desc>
+    </rtept>
+    <rtept lat="41.318920" lon="-0.003019">
+      <ele>1066</ele>
+      <name>WP18</name>
+      <desc>User</desc>
+    </rtept>
+    <rtept lat="41.249668" lon="-0.015836">
+      <ele>1066</ele>
+      <name>WP19</name>
+      <desc>User</desc>
+    </rtept>
+    <rtept lat="41.298615" lon="-0.252061">
+      <ele>1066</ele>
+      <name>WP20</name>
+      <desc>User</desc>
+    </rtept>
+    <rtept lat="41.280518" lon="-0.397367">
+      <ele>1066</ele>
+      <name>WP21</name>
+      <desc>User</desc>
+    </rtept>
+    <rtept lat="41.314392" lon="-0.368625">
+      <ele>1066</ele>
+      <name>WP22</name>
+      <desc>User</desc>
+    </rtept>
+    <rtept lat="41.322720" lon="-0.335161">
+      <ele>1066</ele>
+      <name>WP23</name>
+      <desc>User</desc>
+    </rtept>
+    <rtept lat="41.338963" lon="-0.330175">
+      <ele>1066</ele>
+      <name>WP24</name>
+      <desc>User</desc>
+    </rtept>
+    <rtept lat="41.333115" lon="-0.420808">
+      <ele>1066</ele>
+      <name>WP25</name>
+      <desc>User</desc>
+    </rtept>
+    <rtept lat="41.439308" lon="-0.470447">
+      <ele>1066</ele>
+      <name>WP26</name>
+      <desc>User</desc>
+    </rtept>
+    <rtept lat="41.554581" lon="-0.631331">
+      <ele>1066</ele>
+      <name>WP27</name>
+      <desc>User</desc>
+    </rtept>
+    <rtept lat="41.615341" lon="-0.827722">
+      <ele>1066</ele>
+      <name>WP28</name>
+      <desc>User</desc>
+    </rtept>
+    <rtept lat="41.713238" lon="-0.961594">
+      <ele>1066</ele>
+      <name>WP29</name>
+      <desc>User</desc>
+    </rtept>
+    <rtept lat="41.795757" lon="-1.092122">
+      <ele>1066</ele>
+      <name>WP30</name>
+      <desc>User</desc>
+    </rtept>
+    <rtept lat="41.781807" lon="-1.149300">
+      <ele>1066</ele>
+      <name>WP31</name>
+      <desc>User</desc>
+    </rtept>
+    <rtept lat="41.795361" lon="-1.166880">
+      <ele>1066</ele>
+      <name>WP32</name>
+      <desc>User</desc>
+    </rtept>
+    <rtept lat="41.829361" lon="-1.173967">
+      <ele>1066</ele>
+      <name>WP33</name>
+      <desc>User</desc>
+    </rtept>
+    <rtept lat="41.819885" lon="-1.214450">
+      <ele>1066</ele>
+      <name>WP34</name>
+      <desc>User</desc>
+    </rtept>
+    <rtept lat="41.877144" lon="-1.272547">
+      <ele>1066</ele>
+      <name>WP35</name>
+      <desc>User</desc>
+    </rtept>
+    <rtept lat="41.869293" lon="-1.314222">
+      <ele>1066</ele>
+      <name>WP36</name>
+      <desc>User</desc>
+    </rtept>
+    <rtept lat="41.910587" lon="-1.333064">
+      <ele>1066</ele>
+      <name>WP37</name>
+      <desc>User</desc>
+    </rtept>
+    <rtept lat="41.909092" lon="-1.363850">
+      <ele>1066</ele>
+      <name>WP38</name>
+      <desc>User</desc>
+    </rtept>
+    <rtept lat="41.986649" lon="-1.431514">
+      <ele>1066</ele>
+      <name>WP39</name>
+      <desc>User</desc>
+    </rtept>
+    <rtept lat="42.064827" lon="-1.601178">
+      <ele>1066</ele>
+      <name>WP40</name>
+      <desc>User</desc>
+    </rtept>
+    <rtept lat="42.127430" lon="-1.589733">
+      <ele>1066</ele>
+      <name>WP41</name>
+      <desc>User</desc>
+    </rtept>
+    <rtept lat="42.220142" lon="-1.752542">
+      <ele>1066</ele>
+      <name>WP42</name>
+      <desc>User</desc>
+    </rtept>
+    <rtept lat="42.254707" lon="-1.875767">
+      <ele>1066</ele>
+      <name>WP43</name>
+      <desc>User</desc>
+    </rtept>
+    <rtept lat="42.286880" lon="-1.870117">
+      <ele>1066</ele>
+      <name>WP44</name>
+      <desc>User</desc>
+    </rtept>
+    <rtept lat="42.301731" lon="-1.913980">
+      <ele>1066</ele>
+      <name>WP45</name>
+      <desc>User</desc>
+    </rtept>
+    <rtept lat="42.333214" lon="-1.935825">
+      <ele>1066</ele>
+      <name>WP46</name>
+      <desc>User</desc>
+    </rtept>
+    <rtept lat="42.368977" lon="-2.012122">
+      <ele>1066</ele>
+      <name>WP47</name>
+      <desc>User</desc>
+    </rtept>
+    <rtept lat="42.359364" lon="-2.054517">
+      <ele>1066</ele>
+      <name>WP48</name>
+      <desc>User</desc>
+    </rtept>
+    <rtept lat="42.418446" lon="-2.073880">
+      <ele>1066</ele>
+      <name>WP49</name>
+      <desc>User</desc>
+    </rtept>
+    <rtept lat="42.414753" lon="-2.206600">
+      <ele>1066</ele>
+      <name>WP50</name>
+      <desc>User</desc>
+    </rtept>
+    <rtept lat="42.462887" lon="-2.286353">
+      <ele>1066</ele>
+      <name>WP51</name>
+      <desc>User</desc>
+    </rtept>
+    <rtept lat="42.460556" lon="-2.320555">
+      <ele>1066</ele>
+      <name>LERJ</name>
+      <desc>Airport</desc>
+    </rtept>
+    <rtept lat="42.471478" lon="-2.455233">
+      <ele>1066</ele>
+      <name>WP52</name>
+      <desc>User</desc>
+    </rtept>
+    <rtept lat="42.489620" lon="-2.508639">
+      <ele>1066</ele>
+      <name>WP53</name>
+      <desc>User</desc>
+    </rtept>
+    <rtept lat="42.519283" lon="-2.510058">
+      <ele>1066</ele>
+      <name>WP54</name>
+      <desc>User</desc>
+    </rtept>
+    <rtept lat="42.483166" lon="-2.541981">
+      <ele>1066</ele>
+      <name>WP55</name>
+      <desc>User</desc>
+    </rtept>
+    <rtept lat="42.471619" lon="-2.589508">
+      <ele>1066</ele>
+      <name>WP56</name>
+      <desc>User</desc>
+    </rtept>
+    <rtept lat="42.503590" lon="-2.605333">
+      <ele>1066</ele>
+      <name>WP57</name>
+      <desc>User</desc>
+    </rtept>
+    <rtept lat="42.482769" lon="-2.645197">
+      <ele>1066</ele>
+      <name>WP58</name>
+      <desc>User</desc>
+    </rtept>
+    <rtept lat="42.526337" lon="-2.678172">
+      <ele>1066</ele>
+      <name>WP59</name>
+      <desc>User</desc>
+    </rtept>
+    <rtept lat="42.516792" lon="-2.741611">
+      <ele>1066</ele>
+      <name>WP60</name>
+      <desc>User</desc>
+    </rtept>
+    <rtept lat="42.537689" lon="-2.717867">
+      <ele>1066</ele>
+      <name>WP61</name>
+      <desc>User</desc>
+    </rtept>
+    <rtept lat="42.543076" lon="-2.773136">
+      <ele>1066</ele>
+      <name>WP62</name>
+      <desc>User</desc>
+    </rtept>
+    <rtept lat="42.554104" lon="-2.759883">
+      <ele>1066</ele>
+      <name>WP63</name>
+      <desc>User</desc>
+    </rtept>
+    <rtept lat="42.565361" lon="-2.767100">
+      <ele>1066</ele>
+      <name>WP64</name>
+      <desc>User</desc>
+    </rtept>
+    <rtept lat="42.546532" lon="-2.784925">
+      <ele>1066</ele>
+      <name>WP65</name>
+      <desc>User</desc>
+    </rtept>
+    <rtept lat="42.571434" lon="-2.805931">
+      <ele>1066</ele>
+      <name>WP66</name>
+      <desc>User</desc>
+    </rtept>
+    <rtept lat="42.554321" lon="-2.823475">
+      <ele>1066</ele>
+      <name>WP67</name>
+      <desc>User</desc>
+    </rtept>
+    <rtept lat="42.580750" lon="-2.840967">
+      <ele>1066</ele>
+      <name>WP68</name>
+      <desc>User</desc>
+    </rtept>
+    <rtept lat="42.599228" lon="-2.818550">
+      <ele>1066</ele>
+      <name>WP69</name>
+      <desc>User</desc>
+    </rtept>
+    <rtept lat="42.589985" lon="-2.859444">
+      <ele>1066</ele>
+      <name>WP70</name>
+      <desc>User</desc>
+    </rtept>
+    <rtept lat="42.627029" lon="-2.842064">
+      <ele>1066</ele>
+      <name>WP71</name>
+      <desc>User</desc>
+    </rtept>
+    <rtept lat="42.653061" lon="-2.895872">
+      <ele>1066</ele>
+      <name>WP72</name>
+      <desc>User</desc>
+    </rtept>
+    <rtept lat="42.672184" lon="-2.904642">
+      <ele>1066</ele>
+      <name>WP73</name>
+      <desc>User</desc>
+    </rtept>
+    <rtept lat="42.675339" lon="-2.928947">
+      <ele>1066</ele>
+      <name>WP74</name>
+      <desc>User</desc>
+    </rtept>
+    <rtept lat="42.681175" lon="-2.948481">
+      <ele>1066</ele>
+      <name>WP75</name>
+      <desc>User</desc>
+    </rtept>
+    <rtept lat="42.690544" lon="-2.957411">
+      <ele>1066</ele>
+      <name>WP76</name>
+      <desc>User</desc>
+    </rtept>
+    <rtept lat="42.692764" lon="-2.967764">
+      <ele>1066</ele>
+      <name>WARN1</name>
+      <desc>User</desc>
+    </rtept>
+    <rtept lat="42.733139" lon="-3.015247">
+      <ele>1066</ele>
+      <name>WP77</name>
+      <desc>User</desc>
+    </rtept>
+    <rtept lat="42.738407" lon="-3.040694">
+      <ele>1066</ele>
+      <name>WP78</name>
+      <desc>User</desc>
+    </rtept>
+    <rtept lat="42.765175" lon="-3.048222">
+      <ele>1066</ele>
+      <name>WP79</name>
+      <desc>User</desc>
+    </rtept>
+    <rtept lat="42.757538" lon="-3.084444">
+      <ele>1066</ele>
+      <name>WP80</name>
+      <desc>User</desc>
+    </rtept>
+    <rtept lat="42.767181" lon="-3.099469">
+      <ele>1066</ele>
+      <name>WP81</name>
+      <desc>User</desc>
+    </rtept>
+    <rtept lat="42.757366" lon="-3.129956">
+      <ele>1066</ele>
+      <name>WP82</name>
+      <desc>User</desc>
+    </rtept>
+    <rtept lat="42.757053" lon="-3.152175">
+      <ele>1066</ele>
+      <name>WP83</name>
+      <desc>User</desc>
+    </rtept>
+    <rtept lat="42.768402" lon="-3.206219">
+      <ele>1066</ele>
+      <name>WP84</name>
+      <desc>User</desc>
+    </rtept>
+    <rtept lat="42.775730" lon="-3.198039">
+      <ele>1066</ele>
+      <name>WP85</name>
+      <desc>User</desc>
+    </rtept>
+    <rtept lat="42.779110" lon="-3.207722">
+      <ele>1066</ele>
+      <name>WP86</name>
+      <desc>User</desc>
+    </rtept>
+    <rtept lat="42.761551" lon="-3.243406">
+      <ele>1066</ele>
+      <name>WP87</name>
+      <desc>User</desc>
+    </rtept>
+    <rtept lat="42.785778" lon="-3.256172">
+      <ele>1066</ele>
+      <name>WP88</name>
+      <desc>User</desc>
+    </rtept>
+    <rtept lat="42.781845" lon="-3.267786">
+      <ele>1066</ele>
+      <name>WP89</name>
+      <desc>User</desc>
+    </rtept>
+    <rtept lat="42.771461" lon="-3.261608">
+      <ele>1066</ele>
+      <name>WP90</name>
+      <desc>User</desc>
+    </rtept>
+    <rtept lat="42.761005" lon="-3.266572">
+      <ele>1066</ele>
+      <name>WP91</name>
+      <desc>User</desc>
+    </rtept>
+    <rtept lat="42.758892" lon="-3.273047">
+      <ele>1066</ele>
+      <name>WP92</name>
+      <desc>User</desc>
+    </rtept>
+    <rtept lat="42.759186" lon="-3.283486">
+      <ele>1066</ele>
+      <name>WP93</name>
+      <desc>User</desc>
+    </rtept>
+    <rtept lat="42.762794" lon="-3.285756">
+      <ele>1066</ele>
+      <name>WARN2</name>
+      <desc>User</desc>
+    </rtept>
+    <rtept lat="42.765808" lon="-3.287925">
+      <ele>1066</ele>
+      <name>WP94</name>
+      <desc>User</desc>
+    </rtept>
+    <rtept lat="42.769203" lon="-3.292844">
+      <ele>1066</ele>
+      <name>WP95</name>
+      <desc>User</desc>
+    </rtept>
+    <rtept lat="42.777275" lon="-3.333625">
+      <ele>1066</ele>
+      <name>WP96</name>
+      <desc>User</desc>
+    </rtept>
+    <rtept lat="42.792446" lon="-3.344097">
+      <ele>1066</ele>
+      <name>WP97</name>
+      <desc>User</desc>
+    </rtept>
+    <rtept lat="42.777885" lon="-3.369720">
+      <ele>1066</ele>
+      <name>WP98</name>
+      <desc>User</desc>
+    </rtept>
+    <rtept lat="42.794586" lon="-3.396386">
+      <ele>1066</ele>
+      <name>WP99</name>
+      <desc>User</desc>
+    </rtept>
+    <rtept lat="42.765053" lon="-3.436506">
+      <ele>1066</ele>
+      <name>WP100</name>
+      <desc>User</desc>
+    </rtept>
+    <rtept lat="42.799133" lon="-3.486742">
+      <ele>1066</ele>
+      <name>WP101</name>
+      <desc>User</desc>
+    </rtept>
+    <rtept lat="42.841492" lon="-3.591017">
+      <ele>1066</ele>
+      <name>WP102</name>
+      <desc>User</desc>
+    </rtept>
+    <rtept lat="42.849316" lon="-3.597614">
+      <ele>1066</ele>
+      <name>WP103</name>
+      <desc>User</desc>
+    </rtept>
+    <rtept lat="42.888203" lon="-3.598919">
+      <ele>1066</ele>
+      <name>WP104</name>
+      <desc>User</desc>
+    </rtept>
+    <rtept lat="42.889767" lon="-3.687459">
+      <ele>1066</ele>
+      <name>WP105</name>
+      <desc>User</desc>
+    </rtept>
+    <rtept lat="42.897842" lon="-3.709472">
+      <ele>1066</ele>
+      <name>WP106</name>
+      <desc>User</desc>
+    </rtept>
+    <rtept lat="42.884117" lon="-3.724945">
+      <ele>1066</ele>
+      <name>WP107</name>
+      <desc>User</desc>
+    </rtept>
+    <rtept lat="42.863136" lon="-3.705478">
+      <ele>1066</ele>
+      <name>WP108</name>
+      <desc>User</desc>
+    </rtept>
+    <rtept lat="42.840000" lon="-3.730044">
+      <ele>1066</ele>
+      <name>WP109</name>
+      <desc>User</desc>
+    </rtept>
+    <rtept lat="42.791325" lon="-3.722736">
+      <ele>1066</ele>
+      <name>WP110</name>
+      <desc>User</desc>
+    </rtept>
+    <rtept lat="42.786068" lon="-3.743720">
+      <ele>1066</ele>
+      <name>WP111</name>
+      <desc>User</desc>
+    </rtept>
+    <rtept lat="42.777245" lon="-3.755147">
+      <ele>1066</ele>
+      <name>WP112</name>
+      <desc>User</desc>
+    </rtept>
+    <rtept lat="42.779411" lon="-3.758467">
+      <ele>1066</ele>
+      <name>WARN3A</name>
+      <desc>User</desc>
+    </rtept>
+    <rtept lat="42.781094" lon="-3.763994">
+      <ele>1066</ele>
+      <name>WARN3B</name>
+      <desc>User</desc>
+    </rtept>
+    <rtept lat="42.782871" lon="-3.766053">
+      <ele>1066</ele>
+      <name>WP113</name>
+      <desc>User</desc>
+    </rtept>
+    <rtept lat="42.803211" lon="-3.770555">
+      <ele>1066</ele>
+      <name>WP114</name>
+      <desc>User</desc>
+    </rtept>
+    <rtept lat="42.810329" lon="-3.787625">
+      <ele>1066</ele>
+      <name>WP115</name>
+      <desc>User</desc>
+    </rtept>
+    <rtept lat="42.836227" lon="-3.788747">
+      <ele>1066</ele>
+      <name>WP116</name>
+      <desc>User</desc>
+    </rtept>
+    <rtept lat="42.824413" lon="-3.826847">
+      <ele>1066</ele>
+      <name>WP117</name>
+      <desc>User</desc>
+    </rtept>
+    <rtept lat="42.832802" lon="-3.885003">
+      <ele>1066</ele>
+      <name>WP118</name>
+      <desc>User</desc>
+    </rtept>
+    <rtept lat="42.802509" lon="-3.931286">
+      <ele>1066</ele>
+      <name>WP119</name>
+      <desc>User</desc>
+    </rtept>
+    <rtept lat="42.800411" lon="-3.960064">
+      <ele>1066</ele>
+      <name>WP120</name>
+      <desc>User</desc>
+    </rtept>
+    <rtept lat="42.788979" lon="-3.957572">
+      <ele>1066</ele>
+      <name>WP121</name>
+      <desc>User</desc>
+    </rtept>
+    <rtept lat="42.788639" lon="-3.969933">
+      <ele>1066</ele>
+      <name>WP122</name>
+      <desc>User</desc>
+    </rtept>
+    <rtept lat="42.803734" lon="-3.978642">
+      <ele>1066</ele>
+      <name>WP123</name>
+      <desc>User</desc>
+    </rtept>
+    <rtept lat="42.786770" lon="-3.986833">
+      <ele>1066</ele>
+      <name>WP124</name>
+      <desc>User</desc>
+    </rtept>
+    <rtept lat="42.786396" lon="-3.996986">
+      <ele>1066</ele>
+      <name>WP125</name>
+      <desc>User</desc>
+    </rtept>
+    <rtept lat="42.801697" lon="-3.998628">
+      <ele>1066</ele>
+      <name>WP126</name>
+      <desc>User</desc>
+    </rtept>
+    <rtept lat="42.794918" lon="-4.006072">
+      <ele>1066</ele>
+      <name>WP127</name>
+      <desc>User</desc>
+    </rtept>
+    <rtept lat="42.798634" lon="-4.014042">
+      <ele>1066</ele>
+      <name>WP128</name>
+      <desc>User</desc>
+    </rtept>
+    <rtept lat="42.807285" lon="-4.016031">
+      <ele>1066</ele>
+      <name>WP129</name>
+      <desc>User</desc>
+    </rtept>
+    <rtept lat="42.801800" lon="-4.032775">
+      <ele>1066</ele>
+      <name>WP130</name>
+      <desc>User</desc>
+    </rtept>
+    <rtept lat="42.803249" lon="-4.037617">
+      <ele>1066</ele>
+      <name>WARN4</name>
+      <desc>User</desc>
+    </rtept>
+    <rtept lat="42.832832" lon="-4.043594">
+      <ele>1066</ele>
+      <name>WP131</name>
+      <desc>User</desc>
+    </rtept>
+    <rtept lat="42.860527" lon="-4.036200">
+      <ele>1066</ele>
+      <name>WP132</name>
+      <desc>User</desc>
+    </rtept>
+    <rtept lat="42.903828" lon="-4.034353">
+      <ele>1066</ele>
+      <name>WP133</name>
+      <desc>User</desc>
+    </rtept>
+    <rtept lat="42.923759" lon="-4.025461">
+      <ele>1066</ele>
+      <name>WP134</name>
+      <desc>User</desc>
+    </rtept>
+    <rtept lat="42.938076" lon="-4.049417">
+      <ele>1066</ele>
+      <name>WP135</name>
+      <desc>User</desc>
+    </rtept>
+    <rtept lat="42.963444" lon="-4.058359">
+      <ele>1066</ele>
+      <name>WP136</name>
+      <desc>User</desc>
+    </rtept>
+    <rtept lat="42.969593" lon="-4.052189">
+      <ele>1066</ele>
+      <name>WP137</name>
+      <desc>User</desc>
+    </rtept>
+    <rtept lat="42.975708" lon="-4.047361">
+      <ele>1066</ele>
+      <name>WP138</name>
+      <desc>User</desc>
+    </rtept>
+    <rtept lat="42.977642" lon="-4.097803">
+      <ele>1066</ele>
+      <name>WP139</name>
+      <desc>User</desc>
+    </rtept>
+    <rtept lat="42.992825" lon="-4.106064">
+      <ele>1066</ele>
+      <name>WP140</name>
+      <desc>User</desc>
+    </rtept>
+    <rtept lat="43.000813" lon="-4.130836">
+      <ele>1066</ele>
+      <name>WP141</name>
+      <desc>User</desc>
+    </rtept>
+    <rtept lat="43.001820" lon="-4.164328">
+      <ele>1066</ele>
+      <name>WP142</name>
+      <desc>User</desc>
+    </rtept>
+    <rtept lat="43.017189" lon="-4.189403">
+      <ele>1066</ele>
+      <name>EBRO</name>
+      <desc>User</desc>
+    </rtept>
+    <rtept lat="43.017570" lon="-4.117178">
+      <ele>1066</ele>
+      <name>BESAYA</name>
+      <desc>User</desc>
+    </rtept>
+    <rtept lat="43.020332" lon="-4.092125">
+      <ele>1066</ele>
+      <name>WP143</name>
+      <desc>User</desc>
+    </rtept>
+    <rtept lat="43.032383" lon="-4.090039">
+      <ele>1066</ele>
+      <name>WP144</name>
+      <desc>User</desc>
+    </rtept>
+    <rtept lat="43.078346" lon="-4.073739">
+      <ele>1066</ele>
+      <name>WP145</name>
+      <desc>User</desc>
+    </rtept>
+    <rtept lat="43.103233" lon="-4.061647">
+      <ele>1066</ele>
+      <name>WP146</name>
+      <desc>User</desc>
+    </rtept>
+    <rtept lat="43.137081" lon="-4.043447">
+      <ele>1066</ele>
+      <name>WP147</name>
+      <desc>User</desc>
+    </rtept>
+    <rtept lat="43.159096" lon="-4.031981">
+      <ele>1066</ele>
+      <name>WP148</name>
+      <desc>User</desc>
+    </rtept>
+    <rtept lat="43.205044" lon="-4.059470">
+      <ele>1066</ele>
+      <name>WP149</name>
+      <desc>User</desc>
+    </rtept>
+    <rtept lat="43.260231" lon="-4.057408">
+      <ele>1066</ele>
+      <name>WP150</name>
+      <desc>User</desc>
+    </rtept>
+    <rtept lat="43.303299" lon="-4.074369">
+      <ele>1066</ele>
+      <name>WP151</name>
+      <desc>User</desc>
+    </rtept>
+    <rtept lat="43.351608" lon="-4.064508">
+      <ele>1066</ele>
+      <name>WP152</name>
+      <desc>User</desc>
+    </rtept>
+    <rtept lat="43.405106" lon="-4.016803">
+      <ele>1066</ele>
+      <name>WP153</name>
+      <desc>User</desc>
+    </rtept>
+    <rtept lat="43.434158" lon="-4.034878">
+      <ele>1066</ele>
+      <name>WP154</name>
+      <desc>User</desc>
+    </rtept>
+    <rtept lat="43.426945" lon="-3.820000">
+      <ele>4.8768</ele>
+      <name>LEXJ</name>
+      <desc>Airport</desc>
+    </rtept>
+  </rte>
+</gpx>
